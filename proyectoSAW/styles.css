@@ -1,0 +1,13 @@
+
+
+
+.test{
+	text-align: center;
+}
+
+*{ /* Takes out the default paddings of the browser*/
+	padding: 0;
+ 	margin: 0;
+ 	background-color: black;
+ 	text:  white;
+}
